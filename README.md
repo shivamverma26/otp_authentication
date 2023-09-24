@@ -15,12 +15,11 @@ Screen-2: OTP Verification Screen
 Screen-3: Success Screen 
 
 ### Preview
-<img width="420" src="https://github.com/getlost01/phone_otp_verification_react_firebase/assets/79409258/24460807-db48-40e0-a72c-cdd72e4d30c1">
+<img width="420" alt="welcome_page" src="https://github.com/shivamverma26/otp_authentication/assets/94590743/86cdf93b-fc3e-4b98-94e7-6da939ba9fcc">
 <br>
-<img width="420" src="https://github.com/getlost01/phone_otp_verification_react_firebase/assets/79409258/ff4ee9ca-9924-427d-a7ba-f6580bc22b21">
+<img width="420" alt="verify_page" src="https://github.com/shivamverma26/otp_authentication/assets/94590743/470beba8-7a7d-4312-9de6-4a9566079d7f">
 <br>
-<img width="420" src="https://github.com/getlost01/phone_otp_verification_react_firebase/assets/79409258/021c1ce2-a8b9-4e42-b3c6-d700fa790dab">
-
+<img width="420" alt="getstarted_page" src="https://github.com/shivamverma26/otp_authentication/assets/94590743/545203c2-fc35-462f-bfcb-c06d0e4930ff">
 
 ### Good to Have
 - **Country Code Selection**: Allow users to choose their country code.
@@ -40,7 +39,7 @@ Screen-3: Success Screen
 To get started with the OTP Verification App, follow these steps:
 1. Clone this repository to your local machine.
 ```bash
-git clone https://github.com/your-username/otp-verification-app.git
+git clone https://github.com/shivamverm26/otp_authenticate.git
 ```
 2. Navigate to the project directory.
 ```bash
