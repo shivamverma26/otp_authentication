@@ -1,4 +1,6 @@
 ## OTP Verification App
+**Here's the link to the working demo of this project:** [Watch the Video](https://youtu.be/vkP3gv2r4FI)
+
 ### Table of Contents
 1. [Introduction](#introduction)
 2. [Good to Have](#good-to-have)
